@@ -53,7 +53,7 @@ console.log(D)
 D +=2
 console.log("+=",D)
 D -=6
-console.log("-=",D)
+console.log("-=",D)  
 D *=2
 console.log("*=",D)
 D/=2
